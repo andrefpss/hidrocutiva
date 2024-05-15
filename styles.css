@@ -7,7 +7,13 @@ header {
   height: 60px;
   background: #d2dae7;
   display: flex;
-  justify-content: center;
   align-items: center;
   gap: 50px;
+}
+header figure img{
+  width: 60px;
+}
+header div{
+  width: 100%;
+  text-align: center;
 }
