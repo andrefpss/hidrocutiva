@@ -6,7 +6,10 @@
   display: flex;
   justify-content: center;
   height: 60px;
-  background: #d2dae7;
+  background: #D0FAA5;
+ }
+ body{
+  background: linear-gradient(#D0FAA5,#FFFFFF);
  }
  .titulo{
   margin: 15px;
@@ -31,10 +34,6 @@
 .card{
   height: 500px;
   width: 500px;
-  background-color: rgb(250, 250, 250);
-  border-radius: 10px;
-  overflow: hidden;
-  box-shadow: 3px 3px 10px black; 
   margin: 35px;
 }
 
